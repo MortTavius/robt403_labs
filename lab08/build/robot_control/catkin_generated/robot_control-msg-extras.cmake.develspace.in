@@ -1,0 +1,2 @@
+set(robot_control_MESSAGE_FILES "/home/morttavius/rl_ws/src/robot_control/msg/coord.msg;/home/morttavius/rl_ws/src/robot_control/msg/state.msg;/home/morttavius/rl_ws/src/robot_control/msg/accelerometr.msg;/home/morttavius/rl_ws/src/robot_control/msg/tactile.msg;/home/morttavius/rl_ws/src/robot_control/msg/rigid.msg;/home/morttavius/rl_ws/src/robot_control/msg/fsrInput.msg;/home/morttavius/rl_ws/src/robot_control/msg/newtactile.msg;/home/morttavius/rl_ws/src/robot_control/msg/contact.msg")
+set(robot_control_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/morttavius/rl_ws/devel
+
+Name: robot_control
+Description: Description of robot_control
+Version: 0.0.0
+Cflags: -I/home/morttavius/rl_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
